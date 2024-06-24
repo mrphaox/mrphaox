@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a systems engineering student in tenth semester focused on web development, I have skills in programming languages, such as front-end development, PHP, Java, Python, JavaScript, Node.js, Angular Js, React.js, CSS, HTML. In addition, I have experience in database management, agile methodologies, maching-learning and deep-learning models.
+
 <!--
 **mrphaox/mrphaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
